@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @stefaniazocco
+Hi, I’m @stefaniazocco
 
-- 🌱 I’m currently learning JavaScript at DevelHope school
+I’m currently learning HTML,  CSS,  Sass, JavaScript,  React,  NodeJS and  Git at DevelHope school
